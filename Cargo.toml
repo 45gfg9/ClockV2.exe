@@ -1,0 +1,8 @@
+[package]
+name = "clock_v2_exe"
+version = "0.1.0"
+edition = "2021"
+authors = ["45gfg9 <mc45@qq.com>"]
+
+[dependencies]
+iced = "0.6"
